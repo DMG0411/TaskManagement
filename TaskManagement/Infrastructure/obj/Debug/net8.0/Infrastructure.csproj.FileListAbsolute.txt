@@ -1,0 +1,15 @@
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\INET Labs\TaskManagement\TaskManagement\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
